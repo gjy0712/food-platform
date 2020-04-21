@@ -1,4 +1,4 @@
-# nc-food-paltform
+# food-paltform
 
 ## Project setup
 ```
