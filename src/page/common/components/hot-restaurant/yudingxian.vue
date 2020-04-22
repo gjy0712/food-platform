@@ -84,5 +84,29 @@
 </script>
 
 <style scoped>
-
+    .body{
+        width: 100%;
+        height: 5450px;
+    }
+    .yu{
+        width: 1100px;
+        height: 350px;
+        margin-left: 50px;
+        margin-top: 50px;
+        display: inline-block;
+    }
+    .map{
+        width: 400px;
+        height: 350px;
+        display: inline-block;
+        margin-top: 50px;
+        position: fixed;
+        margin-left: 65px;
+    }
+    .list{
+        height: 1800px;
+        width: 640px;
+        margin-left: 520px;
+        margin-top: 50px;
+    }
 </style>

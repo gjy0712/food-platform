@@ -74,5 +74,33 @@
 </script>
 
 <style scoped>
-
+    .body {
+        width: 100%;
+        height: 3200px;
+    }
+    .bd1 {
+        width: 830px;
+        height: 3100px;
+        display: inline-block;
+        text-align: center;
+        margin-top: 50px;
+    }
+    .bd2 {
+        width: 830px;
+        height: 3200px;
+        display: inline-block;
+        float: right;
+        text-align: center;
+    }
+    .titlen {
+        font-family: "Bangla Sangam MN";
+        font-size: 26px;
+        color: black;
+        line-height: 60px;
+    }
+    .titlew {
+        font-family: cursive;
+        font-size: 26px;
+        color: black;
+    }
 </style>

@@ -96,14 +96,74 @@ export const defaultRouterMap = [
                 meta: { title: '推荐参馆'},
             },
             {
+                path: '/index/jiuqi',
+                component: () => import('../page/common/components/hot-restaurant/jiuqi'),
+                meta: { title: '玖柒冰室'},
+            },
+            {
+                path: '/index/linjia',
+                component: () => import('../page/common/components/hot-restaurant/linjia'),
+                meta: { title: '邻家小馆'},
+            },
+            {
+                path: '/index/wao',
+                component: () => import('../page/common/components/hot-restaurant/wao'),
+                meta: { title: '哇哦炭烧牛蛙'},
+            },
+            {
+                path: '/index/yitengjing',
+                component: () => import('../page/common/components/hot-restaurant/yitengjing'),
+                meta: { title: '伊藤静'},
+            },
+            {
+                path: '/index/wendaoliu',
+                component: () => import('../page/common/components/hot-restaurant/wendaoliu'),
+                meta: { title: '文道留'},
+            },
+            {
                 path: '/specialty',
                 component: () => import('../page/common/specialty'),
                 meta: { title: '特产'},
             },
             {
                 path: '/menu',
-                component: () => import('../page/common/menu'),
+                component: () => import('../page/common/foodMenu'),
                 meta: { title: '菜谱'},
+            },
+            {
+                path: '/index/huajia',
+                component: () => import('../page/common/components/hot-menu/huajia'),
+                meta: { title: '辣炒花甲'},
+            },
+            {
+                path: '/index/cookie',
+                component: () => import('../page/common/components/dessert/cookie'),
+                meta: { title: '曲奇饼干'},
+            },
+            {
+                path: '/index/sofolei',
+                component: () => import('../page/common/components/dessert/sofolei'),
+                meta: { title: '舒芙蕾'},
+            },
+            {
+                path: '/index/maxiao',
+                component: () => import('../page/common/components/dessert/sofolei'),
+                meta: { title: '麻辣小龙虾'},
+            },
+            {
+                path: '/index/hongshaorou',
+                component: () => import('../page/common/components/hot-menu/hongshaorou'),
+                meta: { title: '红烧肉'},
+            },
+            {
+                path: '/index/cokejc',
+                component: () => import('../page/common/components/hot-menu/cokejc'),
+                meta: { title: '可乐鸡翅'},
+            },
+            {
+                path: '/index/huiguor',
+                component: () => import('../page/common/components/hot-menu/huiguor'),
+                meta: { title: '回锅肉'},
             },
             {
                 path: '/topic',

@@ -84,13 +84,15 @@
             background-color: #c90000;
             color: white;
         }
+        .li2 .router-link-active{
+            background-color: #c90000;
+            color: white;
+        }
         .li2 a:hover:not(.li1){
             background-color: #c90000;
             color: white;
         }
         .li1 a{
-            background-color: #c90000;
-            color: white;
             line-height: 60px;
         }
         .search a{
