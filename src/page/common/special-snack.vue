@@ -100,13 +100,13 @@
         </div>
         <div class="center">
             <ul class="pagination">
-                <li><a href="#">&lt;&lt;</a></li>
-                <li><a href="#">&lt;</a></li>
-                <li><a class="active" href="#">1</a></li>
-                <li><a href="snack2.html">2</a></li>
-                <li><a href="snack3.html">3</a></li>
-                <li><a href="snack2.html">&gt;</a></li>
-                <li><a href="snack3.html">&gt;&gt;</a></li>
+                <li><router-link to="">&lt;&lt;</router-link>
+                <li><router-link to="/specialSnack">&lt;</router-link></li>
+                <li><router-link to="/specialSnack" class="active">1</router-link></li>
+                <li><router-link to="/specialSnack2">2</router-link>
+                <li><router-link to="/specialSnack3">3</router-link>
+                <li><router-link to="/specialSnack2">></router-link>
+                <li><router-link to="/specialSnack3">&gt;></router-link></li>
             </ul>
         </div>
         <hr style="margin-top: 50px;">
@@ -122,7 +122,7 @@
 <style scoped lang="css">
     .body{
         width: 100%;
-        height: 2070px;
+        height: 2200px;
     }
     .room {
         width: 1280px;

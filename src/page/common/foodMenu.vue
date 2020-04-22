@@ -10,37 +10,37 @@
                 <li class="module-li">
                     <img src="../../assets/imgs/geng.jpeg" style="width: 400px;height: 400px;"><br>
                     <span style="color: darkslategray;font-size: 18px;line-height: 50px;">
-                        <router-link to="/index/hugeng">糊羹</router-link>
+                        <router-link to="/menu/hugeng">糊羹</router-link>
                     </span>
                 </li>
                 <li class="module-li">
                     <img src="../../assets/imgs/oupian.jpeg" style="width: 400px;height: 400px;"><br>
                     <span style="color: darkslategray;font-size: 18px;line-height: 50px;">
-                        <router-link to="/index/oupian">凉拌藕片</router-link>
+                        <router-link to="/menu/oupian">凉拌藕片</router-link>
                     </span>
                 </li>
                 <li class="module-li">
                     <img src="../../assets/imgs/mifen.jpg" style="width: 400px;height: 400px;"><br>
                     <span style="color: darkslategray;font-size: 18px;line-height: 50px;">
-                        <router-link to="/index/chaofen">南昌炒粉</router-link>
+                        <router-link to="/menu/chaofen">南昌炒粉</router-link>
                         </span>
                 </li>
                 <li class="module-li">
                     <img src="../../assets/imgs/huajia.jpeg" style="width: 400px;height: 400px;"><br>
                     <span style="color: darkslategray;font-size: 18px;line-height: 50px;">
-                        <router-link to="/index/huajia">辣炒花甲</router-link>
+                        <router-link to="/menu/huajia">辣炒花甲</router-link>
                         </span>
                 </li>
                 <li class="module-li">
                     <img src="../../assets/imgs/yaya.jpg" style="width: 400px;height: 400px;"><br>
                     <span style="color: darkslategray;font-size: 18px;line-height: 50px;">
-                        <router-link to="/index/pijiuya">啤酒鸭</router-link>
+                        <router-link to="/menu/pijiuya">啤酒鸭</router-link>
                         </span>
                 </li>
                 <li class="module-li">
                     <img src="../../assets/imgs/waguant.jpeg" style="width: 400px;height: 400px;"><br>
                     <span style="color: darkslategray;font-size: 18px;line-height: 50px;">
-                        <router-link to="/index/soup">瓦罐汤</router-link>
+                        <router-link to="/menu/soup">瓦罐汤</router-link>
                         </span>
                 </li>
             </ul>
@@ -55,19 +55,19 @@
                 <li class="module-li">
                     <img src="../../assets/imgs/sugar.jpeg" style="width: 400px;height: 400px;"><br>
                     <span style="color: darkslategray;font-size: 18px;line-height: 50px;">
-                        <router-link to="/index/sugar">白糖糕</router-link>
+                        <router-link to="/menu/sugar">白糖糕</router-link>
                         </span>
                 </li>
                 <li class="module-li">
                     <img src="../../assets/imgs/cookie.png" style="width: 400px;height: 400px;"><br>
                     <span style="color: darkslategray;font-size: 18px;line-height: 50px;">
-                        <router-link to="/index/cookie">曲奇饼干</router-link>
+                        <router-link to="/menu/cookie">曲奇饼干</router-link>
                         </span>
                 </li>
                 <li class="module-li">
                     <img src="../../assets/imgs/shufulei.jpg" style="width: 400px;height: 400px;"><br>
                     <span style="color: darkslategray;font-size: 18px;line-height: 50px;">
-                        <router-link to="/index/sofolei">舒芙蕾</router-link>
+                        <router-link to="/menu/sofolei">舒芙蕾</router-link>
                         </span>
                 </li>
             </ul>
@@ -82,37 +82,37 @@
                 <li class="module-li">
                     <img src="../../assets/imgs/fzr.jpg" style="width: 400px;height: 400px;"><br>
                     <span style="color: darkslategray;font-size: 18px;line-height: 50px;">
-                        <router-link to="/index/fenzr">粉蒸肉</router-link>
+                        <router-link to="/menu/fenzr">粉蒸肉</router-link>
                         </span>
                 </li>
                 <li class="module-li">
                     <img src="../../assets/imgs/lihao.png" style="width: 400px;height: 400px;"><br>
                     <span style="color: darkslategray;font-size: 18px;line-height: 50px;">
-                        <router-link to="/index/lihao">藜蒿炒腊肉</router-link>
+                        <router-link to="/menu/lihao">藜蒿炒腊肉</router-link>
                         </span>
                 </li>
                 <li class="module-li">
                     <img src="../../assets/imgs/maxiao.jpg" style="width: 400px;height: 400px;"><br>
                     <span style="color: darkslategray;font-size: 18px;line-height: 50px;">
-                        <router-link to="/index/maxiao">麻辣小龙虾</router-link>
+                        <router-link to="/menu/maxiao">麻辣小龙虾</router-link>
                         </span>
                 </li>
                 <li class="module-li">
                     <img src="../../assets/imgs/hongshaorou.jpg" style="width: 400px;height: 400px;"><br>
                     <span style="color: darkslategray;font-size: 18px;line-height: 50px;">
-                        <router-link to="/index/hongshaorou">红烧肉</router-link>
+                        <router-link to="/menu/hongshaorou">红烧肉</router-link>
                         </span>
                 </li>
                 <li class="module-li">
                     <img src="../../assets/imgs/cokejichi.jpg" style="width: 400px;height: 400px;"><br>
                     <span style="color: darkslategray;font-size: 18px;line-height: 50px;">
-                        <router-link to="/index/cokejc">可乐鸡翅</router-link>
+                        <router-link to="/menu/cokejc">可乐鸡翅</router-link>
                     </span>
                 </li>
                 <li class="module-li">
                     <img src="../../assets/imgs/huiguorou.jpg" style="width: 400px;height: 400px;"><br>
                     <span style="color: darkslategray;font-size: 18px;line-height: 50px;">
-                        <router-link to="/index/huiguor">回锅肉</router-link>
+                        <router-link to="/menu/huiguor">回锅肉</router-link>
                     </span>
                 </li>
             </ul>

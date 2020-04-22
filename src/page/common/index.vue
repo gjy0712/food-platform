@@ -20,7 +20,7 @@
             </div>
             <div class="menu">
                 <ul class="menu-ul">
-                    <li class="menu-li"><router-link to="/index/fenzr">
+                    <li class="menu-li"><router-link to="/menu/fenzr">
                         <img src="../../assets/imgs/fzr.jpg" style="width: 280px;height: 280px;padding-left: 20px;
                     padding-top: 20px;">
                         <span>
@@ -33,7 +33,7 @@
                         </p>
                     </span>
                     </router-link></li>
-                    <li class="menu-li"><router-link to="/index/lihao">
+                    <li class="menu-li"><router-link to="/menu/lihao">
                         <img src="../../assets/imgs/lihao.png" style="width: 280px;height: 280px;padding-left: 20px;
                     padding-top: 20px;">
                         <span>
@@ -45,7 +45,7 @@
                         </p>
                     </span>
                     </router-link></li>
-                    <li class="menu-li"><router-link to="/index/pijiuya">
+                    <li class="menu-li"><router-link to="/menu/pijiuya">
                         <img src="../../assets/imgs/yaya.jpg" style="width: 280px;height: 280px;padding-left: 20px;
                     padding-top: 20px;">
                         <span>
@@ -57,7 +57,7 @@
                         </p>
                     </span>
                     </router-link></li>
-                    <li class="menu-li"><router-link to="/index/oupian">
+                    <li class="menu-li"><router-link to="/menu/oupian">
                         <img src="../../assets/imgs/oupian.jpeg" style="width: 280px;height: 280px;padding-left: 20px;
                     padding-top: 20px;">
                         <span>
@@ -69,7 +69,7 @@
                         </p>
                     </span>
                     </router-link></li>
-                    <li class="menu-li"><router-link to="/index/hugeng">
+                    <li class="menu-li"><router-link to="/menu/hugeng">
                         <img src="../../assets/imgs/geng.jpeg" style="width: 280px;height: 280px;padding-left: 20px;
                     padding-top: 20px;">
                         <span>
@@ -81,7 +81,7 @@
                         </p>
                     </span>
                     </router-link></li>
-                    <li class="menu-li"><router-link to="/index/sugar">
+                    <li class="menu-li"><router-link to="/menu/sugar">
                         <img src="../../assets/imgs/sugar.jpeg" style="width: 280px;height: 280px;padding-left: 20px;
                     padding-top: 20px;">
                         <span>
@@ -93,7 +93,7 @@
                         </p>
                     </span>
                     </router-link></li>
-                    <li class="menu-li"><router-link to="/index/chaofen">
+                    <li class="menu-li"><router-link to="/menu/chaofen">
                         <img src="../../assets/imgs/mifen.jpg" style="width: 280px;height: 280px;padding-left: 20px;
                     padding-top: 20px;">
                         <span>
@@ -105,7 +105,7 @@
                         </p>
                     </span>
                     </router-link></li>
-                    <li class="menu-li"><router-link to="/index/soup">
+                    <li class="menu-li"><router-link to="/menu/soup">
                         <img src="../../assets/imgs/waguant.jpeg" style="width: 280px;height: 280px;padding-left: 20px;
                     padding-top: 20px;">
                         <span>
@@ -128,7 +128,7 @@
                 </div>
                 <div class="room">
                     <ul class="room-ul"><hr style="width: 1200px;">
-                        <li class="room-li"><router-link to="/index/yudingxian">
+                        <li class="room-li"><router-link to="/menu/yudingxian">
                             <img src="../../assets/imgs/yudingxian.jpeg" style="width: 237px;height: 200px;
                             display: inline-block">
                             <span class="laosy">
@@ -144,7 +144,7 @@
                         </span>
                         </router-link></li>
                         <hr style="width: 1200px;">
-                        <li class="room-li"><router-link to="/index/weifuji">
+                        <li class="room-li"><router-link to="/menu/weifuji">
                             <img src="../../assets/imgs/weifuji.jpg" style="width: 237px;height: 200px;
                             display: inline-block">
                             <span class="laosy">
@@ -160,7 +160,7 @@
                         </span>
                         </router-link></li>
                         <hr style="width: 1200px;">
-                        <li class="room-li"><router-link to="/index/taiyl">
+                        <li class="room-li"><router-link to="/menu/taiyl">
                             <img src="../../assets/imgs/taiyuelan.jpeg" style="width: 237px;height: 200px;
                             display: inline-block">
                             <span class="laosy">
@@ -176,7 +176,7 @@
                         </span>
                         </router-link></li>
                         <hr style="width: 1200px;">
-                        <li class="room-li"><router-link to="/index/yin">
+                        <li class="room-li"><router-link to="/menu/yin">
                             <img src="../../assets/imgs/yin.jpeg" style="width: 237px;height: 200px;
                             display: inline-block">
                             <span class="laosy">
@@ -192,7 +192,7 @@
                         </span>
                         </router-link></li>
                         <hr style="width: 1200px;">
-                        <li class="room-li"><router-link to="/index/dad">
+                        <li class="room-li"><router-link to="/menu/dad">
                             <img src="../../assets/imgs/baba.jpeg" style="width: 237px;height: 200px;
                             display: inline-block">
                             <span class="laosy">
