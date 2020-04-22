@@ -11,9 +11,9 @@
                     <label class="ls">密&nbsp;&nbsp;码：</label>
                     <input id="password" name="password" class="input1" type="password">
                     <br/>
-                    <input id="login1" class="input2"  type="button" onclick="doLogin()" value="登录" >&nbsp;
-                    <input id="login2" class="input2"  type="button" value="注册" onclick="doRegister()">
-                    <input id="login3" class="input3"  type="button" value="游客登录" onclick="doTourist()">
+                    <input id="login1" class="input2"  type="button" @click="doLogin()" value="登录" >&nbsp;
+                    <input id="login2" class="input2"  type="button" value="注册" @click="doRegister()">
+                    <input id="login3" class="input3"  type="button" value="游客登录" @click="doTourist()">
 
                 </form>
             </div>
