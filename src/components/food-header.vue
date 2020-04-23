@@ -24,11 +24,20 @@
 </template>
 
 <script>
+    import {getLocalStore} from "../utils/webstore-utils";
+    import {USER} from "../config/webstore";
+
     export default {
         name: "food-header",
         data() {
             return {
-                name: '001'
+                name: ''
+            }
+        },
+        created() {
+            let userObj = JSON.parse(getLocalStore(USER))
+            if (userObj) {
+                this.name = userObj.username
             }
         }
     }

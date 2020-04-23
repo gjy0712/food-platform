@@ -78,7 +78,7 @@ module.exports = {
         hotOnly: false,
         proxy: {
             '/': {
-                target: 'http://localhost', // 你接口的域名
+                target: 'http://localhost:8086', // 你接口的域名
                 changeOrigin: true,
                 ws: true,
             }

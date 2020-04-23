@@ -167,7 +167,7 @@ export const defaultRouterMap = [
             },
             {
                 path: '/menu/maxiao',
-                component: () => import('../page/common/components/dessert/sofolei'),
+                component: () => import('../page/common/components/hot-menu/maxiao'),
                 meta: { title: '麻辣小龙虾'},
             },
             {
@@ -199,7 +199,7 @@ export const defaultRouterMap = [
         children: [
             {
                 path: '/tourist/index',
-                component: () => import('../page/common/index'),
+                component: () => import('../page/tourist/index'),
                 meta: { title: '首页'},
             },
             {
@@ -339,7 +339,7 @@ export const defaultRouterMap = [
             },
             {
                 path: '/tourist/menu/maxiao',
-                component: () => import('../page/tourist/components/dessert/sofolei'),
+                component: () => import('../page/tourist/components/hot-menu/maxiao'),
                 meta: { title: '麻辣小龙虾'},
             },
             {

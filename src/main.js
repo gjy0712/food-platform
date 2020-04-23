@@ -5,6 +5,7 @@ import router from '@/router'
 import axios from 'axios' ;
 import Vuex from 'vuex' //引入状态管理
 import '@/assets/css/reset.css'
+import './plugins/element.js'
 Vue.prototype.$axios= axios ;
 
 Vue.config.productionTip = false
