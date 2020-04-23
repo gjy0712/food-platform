@@ -78,16 +78,21 @@
                     data: {
                         username: this.registerForm.name,
                         password: this.registerForm.password,
+                        checkPassword: this.registerForm.secpassword,
                     },
                     successCallback: (res) => {
                         // 成功
                         this.$message.success("注册成功，请登录！")
-
+                        this.registerForm = {
+                            name: '',
+                            password: '',
+                            secPassword: ''
+                        }
                         this.$router.push('/login')
                     },
                     errorCallback: (err) => {
                         // 失败
-                        this.$message.error('注册失败，请重新注册！')
+                        this.$message.error(err.data.msg)
                         this.registerForm = {
                             name: '',
                             password: '',
